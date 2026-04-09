@@ -53,10 +53,7 @@ hardware/Project Outputs/
 *.log
 *.xml
 *.txt
-*.step
-*.PDF
-*.pdf
-*.rar
+
 
 # Ваша готовая программа
 software/
