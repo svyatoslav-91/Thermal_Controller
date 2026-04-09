@@ -1,0 +1,66 @@
+# Скомпилированные файлы
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.lib
+*.hex
+*.axf
+*.bin
+
+# Code::Blocks
+*.cbp
+*.depend
+*.layout
+*.workspace
+
+# Keil MDK-ARM
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+*.scvd
+*.dbgconf
+*.axf
+*.htm
+*.lnp
+*.map
+*.sct
+*.dep
+
+# Папки с бинарниками
+bin/
+obj/
+Debug/
+Release/
+MDK-ARM/*/  (все вложенные папки с .o .d)
+
+# Временные файлы Altium Designer (ваши схемы)
+hardware/History/
+hardware/__Previews/
+hardware/Project Logs/
+hardware/Project Outputs/
+*.Zip
+*.rar
+*.outjob
+*.PrjPcbStructure
+*.SchDocPreview
+*.~(1)*
+
+# Остальное
+*.tmp
+*.bak
+*.log
+*.xml
+*.txt
+*.step
+*.PDF
+*.pdf
+*.rar
+
+# Ваша готовая программа
+software/
+software\ codeblocks/bin/
+software\ codeblocks/obj/
+*.exe
+*.dll
